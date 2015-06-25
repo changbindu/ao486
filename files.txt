@@ -1,0 +1,11 @@
+ao486_tool	- cpu logic unit test tools
+bios		- bios patch for bochs
+bochs486	- modified bochs code
+bochsDevs	- ?
+rtl			- CPU and Soc components implemented in verilog
+sd			- bios, flopy disk, bochs config files to start bochs
+sim			- 
+   iverilog - simulate with iverilog, can simulate each component.
+   sim_pc	- ?
+   verilator - simulate with verilator, it converts verilog code to c and compile to a executable file.
+syn			- quartus ii project files
